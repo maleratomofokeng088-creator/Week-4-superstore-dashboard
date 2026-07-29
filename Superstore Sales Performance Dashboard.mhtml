@@ -1,0 +1,266 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://turbo-adventure-xrr7qgrjvgx4f96pr-8000.app.github.dev/
+Subject: Superstore Sales Performance Dashboard
+Date: Wed, 29 Jul 2026 23:14:34 +0200
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--h0u3IaIF8AbwcnAKfKeAaBBaFTk2tskZLCBUgqFh09----"
+
+
+------MultipartBoundary--h0u3IaIF8AbwcnAKfKeAaBBaFTk2tskZLCBUgqFh09----
+Content-Type: text/html
+Content-ID: <frame-822BDF0F22095B19C19A5B7DE5A63AC6@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://turbo-adventure-xrr7qgrjvgx4f96pr-8000.app.github.dev/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Superstore Sales Performance Dashboard</title>
+    <link rel=3D"stylesheet" href=3D"https://turbo-adventure-xrr7qgrjvgx4f9=
+6pr-8000.app.github.dev/styles.css">
+  </head>
+  <body>
+    <div class=3D"page-shell">
+      <header class=3D"hero">
+        <div>
+          <p class=3D"eyebrow">Week 4 =E2=80=A2 Superstore Analytics</p>
+          <h1>Superstore Sales Performance Dashboard</h1>
+          <p class=3D"hero-copy">
+            A concise executive view of revenue, profitability, regional pe=
+rformance,
+            and customer mix.
+          </p>
+        </div>
+        <div class=3D"hero-badge">Live demo</div>
+      </header>
+
+      <section class=3D"stats-grid" aria-label=3D"Summary metrics">
+        <article class=3D"card stat-card">
+          <p>Total Sales</p>
+          <h2 id=3D"salesValue">$63,780</h2>
+        </article>
+        <article class=3D"card stat-card">
+          <p>Total Profit</p>
+          <h2 id=3D"profitValue">$12,660</h2>
+        </article>
+        <article class=3D"card stat-card">
+          <p>Orders</p>
+          <h2 id=3D"ordersValue">36</h2>
+        </article>
+        <article class=3D"card stat-card">
+          <p>Average Discount</p>
+          <h2 id=3D"discountValue">6.7%</h2>
+        </article>
+      </section>
+
+      <section class=3D"charts-grid">
+        <article class=3D"card chart-card">
+          <div class=3D"card-head">
+            <div>
+              <p class=3D"eyebrow">Trend</p>
+              <h3>Sales by month</h3>
+            </div>
+          </div>
+          <svg id=3D"lineChart" viewBox=3D"0 0 560 280" role=3D"img" aria-l=
+abel=3D"Line chart of monthly sales">
+    <rect x=3D"0" y=3D"0" width=3D"560" height=3D"280" rx=3D"18" fill=3D"#0=
+b1728"></rect>
+    <line x1=3D"40" y1=3D"240" x2=3D"520" y2=3D"240" stroke=3D"#35506c" str=
+oke-width=3D"1"></line>
+    <line x1=3D"40" y1=3D"40" x2=3D"40" y2=3D"240" stroke=3D"#35506c" strok=
+e-width=3D"1"></line>
+    <text x=3D"40" y=3D"270" text-anchor=3D"middle" fill=3D"#8ba0b8" font-s=
+ize=3D"11">01</text><text x=3D"136" y=3D"270" text-anchor=3D"middle" fill=
+=3D"#8ba0b8" font-size=3D"11">02</text><text x=3D"232" y=3D"270" text-ancho=
+r=3D"middle" fill=3D"#8ba0b8" font-size=3D"11">03</text><text x=3D"328" y=
+=3D"270" text-anchor=3D"middle" fill=3D"#8ba0b8" font-size=3D"11">04</text>=
+<text x=3D"424" y=3D"270" text-anchor=3D"middle" fill=3D"#8ba0b8" font-size=
+=3D"11">05</text><text x=3D"520" y=3D"270" text-anchor=3D"middle" fill=3D"#=
+8ba0b8" font-size=3D"11">06</text>
+    <polyline points=3D"40,60.55335968379447 136,61.34387351778656 232,43.1=
+62055335968375 328,56.600790513834 424,40 520,41.97628458498025" fill=3D"no=
+ne" stroke=3D"#3db5ff" stroke-width=3D"4" stroke-linejoin=3D"round" stroke-=
+linecap=3D"round"></polyline>
+    <circle cx=3D"40" cy=3D"60.55335968379447" r=3D"5" fill=3D"#6b6cff"></c=
+ircle><circle cx=3D"136" cy=3D"61.34387351778656" r=3D"5" fill=3D"#6b6cff">=
+</circle><circle cx=3D"232" cy=3D"43.162055335968375" r=3D"5" fill=3D"#6b6c=
+ff"></circle><circle cx=3D"328" cy=3D"56.600790513834" r=3D"5" fill=3D"#6b6=
+cff"></circle><circle cx=3D"424" cy=3D"40" r=3D"5" fill=3D"#6b6cff"></circl=
+e><circle cx=3D"520" cy=3D"41.97628458498025" r=3D"5" fill=3D"#6b6cff"></ci=
+rcle>
+  </svg>
+        </article>
+
+        <article class=3D"card chart-card">
+          <div class=3D"card-head">
+            <div>
+              <p class=3D"eyebrow">Regional view</p>
+              <h3>Sales by region</h3>
+            </div>
+          </div>
+          <svg id=3D"barChart" viewBox=3D"0 0 560 280" role=3D"img" aria-la=
+bel=3D"Bar chart of sales by region">
+    <rect x=3D"0" y=3D"0" width=3D"560" height=3D"280" rx=3D"18" fill=3D"#0=
+b1728"></rect>
+    <line x1=3D"40" y1=3D"240" x2=3D"520" y2=3D"240" stroke=3D"#35506c" str=
+oke-width=3D"1"></line>
+    <line x1=3D"40" y1=3D"40" x2=3D"40" y2=3D"240" stroke=3D"#35506c" strok=
+e-width=3D"1"></line>
+   =20
+          <rect x=3D"40" y=3D"40" width=3D"70" height=3D"200" rx=3D"10" fil=
+l=3D"#3db5ff"></rect>
+          <text x=3D"75" y=3D"268" text-anchor=3D"middle" fill=3D"#8ba0b8" =
+font-size=3D"11">West</text>
+          <text x=3D"75" y=3D"32" text-anchor=3D"middle" fill=3D"#f3f7fb" f=
+ont-size=3D"11">$16,120</text>
+       =20
+          <rect x=3D"150" y=3D"43.72208436724566" width=3D"70" height=3D"19=
+6.27791563275434" rx=3D"10" fill=3D"#6b6cff"></rect>
+          <text x=3D"185" y=3D"268" text-anchor=3D"middle" fill=3D"#8ba0b8"=
+ font-size=3D"11">East</text>
+          <text x=3D"185" y=3D"35.72208436724566" text-anchor=3D"middle" fi=
+ll=3D"#f3f7fb" font-size=3D"11">$15,820</text>
+       =20
+          <rect x=3D"260" y=3D"41.736972704714645" width=3D"70" height=3D"1=
+98.26302729528535" rx=3D"10" fill=3D"#3db5ff"></rect>
+          <text x=3D"295" y=3D"268" text-anchor=3D"middle" fill=3D"#8ba0b8"=
+ font-size=3D"11">Central</text>
+          <text x=3D"295" y=3D"33.736972704714645" text-anchor=3D"middle" f=
+ill=3D"#f3f7fb" font-size=3D"11">$15,980</text>
+       =20
+          <rect x=3D"370" y=3D"43.2258064516129" width=3D"70" height=3D"196=
+.7741935483871" rx=3D"10" fill=3D"#6b6cff"></rect>
+          <text x=3D"405" y=3D"268" text-anchor=3D"middle" fill=3D"#8ba0b8"=
+ font-size=3D"11">South</text>
+          <text x=3D"405" y=3D"35.2258064516129" text-anchor=3D"middle" fil=
+l=3D"#f3f7fb" font-size=3D"11">$15,860</text>
+       =20
+  </svg>
+        </article>
+      </section>
+
+      <section class=3D"bottom-grid">
+        <article class=3D"card">
+          <div class=3D"card-head">
+            <div>
+              <p class=3D"eyebrow">Performance</p>
+              <h3>Category mix</h3>
+            </div>
+          </div>
+          <ul id=3D"categoryList" class=3D"list"><li><span>Technology</span=
+><span class=3D"pill">$32,120</span></li><li><span>Furniture</span><span cl=
+ass=3D"pill">$19,170</span></li><li><span>Office Supplies</span><span class=
+=3D"pill">$12,490</span></li></ul>
+        </article>
+
+        <article class=3D"card">
+          <div class=3D"card-head">
+            <div>
+              <p class=3D"eyebrow">Customers</p>
+              <h3>Top customers</h3>
+            </div>
+          </div>
+          <table>
+            <thead>
+              <tr>
+                <th>Customer</th>
+                <th>Sales</th>
+                <th>Profit</th>
+              </tr>
+            </thead>
+            <tbody id=3D"customerTable"><tr><td>Home Office</td><td>$32,120=
+</td><td>$7,066</td></tr><tr><td>Consumer</td><td>$19,170</td><td>$4,217</t=
+d></tr><tr><td>Corporate</td><td>$12,490</td><td>$2,748</td></tr></tbody>
+          </table>
+        </article>
+      </section>
+    </div>
+
+   =20
+ =20
+
+</body></html>
+------MultipartBoundary--h0u3IaIF8AbwcnAKfKeAaBBaFTk2tskZLCBUgqFh09----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://turbo-adventure-xrr7qgrjvgx4f96pr-8000.app.github.dev/styles.css
+
+@charset "utf-8";
+
+:root { color-scheme: dark; --bg: #07111f; --panel: #10233c; --panel-alt: #=
+17324e; --text: #f3f7fb; --muted: #8ba0b8; --accent: #3db5ff; --accent-2: #=
+6b6cff; --good: #43d38b; --border: rgba(255, 255, 255, 0.1); }
+
+* { box-sizing: border-box; }
+
+body { margin: 0px; font-family: Inter, "Segoe UI", Roboto, Arial, sans-ser=
+if; background: linear-gradient(135deg, var(--bg), #0f1f33 60%, #132b49); c=
+olor: var(--text); }
+
+.page-shell { max-width: 1280px; margin: 0px auto; padding: 32px 20px 48px;=
+ }
+
+.hero { display: flex; justify-content: space-between; align-items: center;=
+ gap: 16px; margin-bottom: 24px; }
+
+.hero h1 { margin: 4px 0px 8px; font-size: 2rem; }
+
+.hero-copy { margin: 0px; color: var(--muted); max-width: 640px; }
+
+.eyebrow { margin: 0px; text-transform: uppercase; letter-spacing: 0.3em; f=
+ont-size: 0.74rem; color: var(--accent); }
+
+.hero-badge { padding: 10px 14px; border-radius: 999px; background: rgba(61=
+, 181, 255, 0.16); color: var(--accent); border: 1px solid rgba(61, 181, 25=
+5, 0.25); font-weight: 600; }
+
+.card { background: rgba(16, 35, 60, 0.92); border: 1px solid var(--border)=
+; border-radius: 18px; padding: 20px; box-shadow: rgba(4, 9, 18, 0.24) 0px =
+18px 40px; }
+
+.stats-grid { display: grid; gap: 16px; grid-template-columns: repeat(4, mi=
+nmax(0px, 1fr)); margin-bottom: 20px; }
+
+.stat-card h2 { margin: 8px 0px 0px; font-size: 1.8rem; }
+
+.stat-card p { margin: 0px; color: var(--muted); }
+
+.charts-grid { display: grid; gap: 20px; grid-template-columns: 1.25fr 1fr;=
+ margin-bottom: 20px; }
+
+.bottom-grid { display: grid; gap: 20px; grid-template-columns: 0.95fr 1.05=
+fr; }
+
+.card-head { display: flex; justify-content: space-between; align-items: ce=
+nter; margin-bottom: 14px; }
+
+.card-head h3 { margin: 6px 0px 0px; font-size: 1.1rem; }
+
+svg { width: 100%; height: auto; }
+
+.list { list-style: none; padding: 0px; margin: 0px; display: grid; gap: 10=
+px; }
+
+.list li { display: flex; justify-content: space-between; align-items: cent=
+er; padding: 10px 0px; border-bottom: 1px solid var(--border); }
+
+.list li:last-child { border-bottom: 0px; }
+
+.list .pill { color: var(--good); font-weight: 600; }
+
+table { width: 100%; border-collapse: collapse; }
+
+th, td { text-align: left; padding: 10px 8px; border-bottom: 1px solid var(=
+--border); }
+
+th { color: var(--muted); font-weight: 600; font-size: 0.85rem; text-transf=
+orm: uppercase; letter-spacing: 0.08em; }
+
+@media (max-width: 960px) {
+  .stats-grid, .charts-grid, .bottom-grid { grid-template-columns: 1fr; }
+}
+------MultipartBoundary--h0u3IaIF8AbwcnAKfKeAaBBaFTk2tskZLCBUgqFh09------
